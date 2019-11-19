@@ -2,8 +2,8 @@
 //  User.swift
 //  RidgeVoice
 //
-//  Created by Amit Mathur on 7/10/19.
-//  Copyright © 2019 Amit Mathur. All rights reserved.
+//  Created by Sneha Joshi on 7/10/19.
+//  Copyright © 2019 Sneha Joshi. All rights reserved.
 //
 
 import Foundation
